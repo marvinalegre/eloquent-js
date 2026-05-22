@@ -1,4 +1,4 @@
-const size = 28;
+const size = 8;
 
 let evenRow = "";
 let oddRow = "";
